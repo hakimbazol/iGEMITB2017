@@ -1,5 +1,5 @@
 # iGEMITB2017
-The codes of Drylab Team, iGEM ITB 2017 to support the wetlab.
+The codes of Drylab Team, iGEM ITB 2017 to support the wetlab. Link of our project can be accessed here : http://2017.igem.org/Team:ITB_Indonesia/Model?
 
 Contributed by Muhammad Naufal Hakim (Bioengineering ITB 2014), Mudita Gunawan (Mathematics ITB 2014), and Andre Hendrawan (Chemical Engineering ITB 2013)
 
